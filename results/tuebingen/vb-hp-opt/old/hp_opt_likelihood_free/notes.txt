@@ -1,0 +1,1 @@
+Unconstrained optimization conducted with vb. a2=a1 b2=b1 was implemented neither for test nor train.

@@ -1,0 +1,8 @@
+Example commands 
+
+for training
+julia --depwarn=no vb_bayesian_opt_likelihood.jl 100 unconstrained 1000 200 1 7
+
+for test
+julia --depwarn=no vb_bayesian_opt_likelihood_test.jl vb 100000 1.0 2 4 kmeans no_imprecise_prior non_elite_data 100
+julia --depwarn=no vb_bayesian_opt_likelihood_test.jl vb 100000 1.0 2 4 none imprecise_prior non_elite_data 100

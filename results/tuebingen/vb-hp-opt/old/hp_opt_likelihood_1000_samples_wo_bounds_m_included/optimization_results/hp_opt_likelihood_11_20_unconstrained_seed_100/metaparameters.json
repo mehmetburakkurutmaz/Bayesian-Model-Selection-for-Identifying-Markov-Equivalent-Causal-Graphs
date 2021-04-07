@@ -1,0 +1,1 @@
+{"metaparameters":{"M":4,"P":100,"EPOCHS":200,"T_max":1000,"Rs":[1,2,3,4,5],"n_iterations":200,"norm":true,"SEED":100,"hp_optimization_type":"unconstrained"}}

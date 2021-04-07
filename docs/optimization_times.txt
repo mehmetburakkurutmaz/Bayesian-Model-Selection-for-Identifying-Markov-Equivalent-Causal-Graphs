@@ -1,0 +1,18 @@
+EPOCHS = 10, n_iterations = 2, T_max = 100, M = 2, P = 100: 19 s
+EPOCHS = 10, n_iterations = 4, T_max = 100, M = 2, P = 100: 21 s
+EPOCHS = 10, n_iterations = 8, T_max = 100, M = 2, P = 100: 28 s
+EPOCHS = 10, n_iterations = 16, T_max = 100, M = 2, P = 100: 44 s
+
+EPOCHS = 10, n_iterations = 2, T_max = 100, M = 2, P = 100: 19 s
+EPOCHS = 10, n_iterations = 2, T_max = 100, M = 4, P = 100: 18 s
+EPOCHS = 10, n_iterations = 2, T_max = 100, M = 8, P = 100: 22 s
+
+EPOCHS = 10, n_iterations = 2, T_max = 100, M = 2, P = 100: 19 s
+EPOCHS = 20, n_iterations = 2, T_max = 100, M = 2, P = 100: 43 s
+EPOCHS = 40, n_iterations = 2, T_max = 100, M = 2, P = 100: 70 s
+
+EPOCHS = 10, n_iterations = 2, T_max = 100, M = 2, P = 100: 19 s
+EPOCHS = 10, n_iterations = 2, T_max = 1000, M = 2, P = 100: 35 s
+
+EPOCHS = 10, n_iterations = 2, T_max = 100, M = 2, P = 100: 19 s
+EPOCHS = 100, n_iterations = 100, T_max = 1000, M = 2, P = 100: ? s

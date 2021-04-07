@@ -1,0 +1,1 @@
+{"test_metaparameters":{"m₁":0.0,"M":4,"P":100,"EPOCHS":200,"T_max":null,"Rs":[1,2,3,4,5],"m₂":0.0,"norm":true,"SEED":100,"hp_folder":"./results/tuebingen/vb-hp-opt/hp_opt_likelihood_free_smc_2"}}

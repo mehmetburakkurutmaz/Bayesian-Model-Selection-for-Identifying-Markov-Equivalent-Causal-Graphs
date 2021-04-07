@@ -1,0 +1,1 @@
+{"results":{"models_decision":[">","<","<","<",">"],"pair_ids":["pair0001","pair0002","pair0003","pair0004","pair0005"],"models_actual":["->","->","->","->","->"],"accuracy":0.3824257425742574,"pair_correct":[true,false,false,false,true],"pair_scores":[0.166,0.0,0.0,0.0,0.143],"pair_weights":[0.166,0.166,0.167,0.166,0.143]}}

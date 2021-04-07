@@ -1,0 +1,1 @@
+{"test_metaparameters":{"P":100,"ratio":0.1,"m₂":0.0,"M":4,"pairs_included":["pair0001","pair0002","pair0003","pair0004","pair0005"],"SEED":100,"hp_folder":"./results/tuebingen/vb-hp-opt/hp_opt_unconstrained","Rs":[1,2,3],"T_max":1000,"norm":true,"m₁":0.0,"EPOCHS":10}}

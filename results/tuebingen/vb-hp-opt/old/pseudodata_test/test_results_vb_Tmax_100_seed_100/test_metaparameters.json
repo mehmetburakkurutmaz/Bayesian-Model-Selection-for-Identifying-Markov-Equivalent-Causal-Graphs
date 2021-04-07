@@ -1,0 +1,1 @@
+{"test_metaparameters":{"M":4,"P":100,"EPOCHS":10,"T_max":100,"Rs":[1,2,3],"pairs_included":["pair0001","pair0002","pair0003","pair0004","pair0005"],"ratio":1.0,"norm":true,"SEED":100,"hp_folder":"./results/tuebingen/vb-hp-opt/pseudodata_test"}}

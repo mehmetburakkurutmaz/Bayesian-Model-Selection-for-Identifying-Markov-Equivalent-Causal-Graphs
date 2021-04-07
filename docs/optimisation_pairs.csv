@@ -1,0 +1,16 @@
+Pair number,X,Y,N,Notes,Direction
+Pair 1,Altitude,Temperature,349,,>
+Pair 7,Age,Length,4177,,>
+Pair 16,Horsepower,Acceleration,392,,>
+Pair 25,Cement Ratio,Compressive Strength,1030,,>
+Pair 34,Alcohol consumption,Gamma-Glutamyl Transpeptidase (GGT),345,Selected this relation since: “It is rarely elevated in conditions other than liver disease. High GGT levels have been associated with alcohol use”,>
+Pair 49,Ozone concentration,Temperature,365,,<<
+Pair 64,Drinking water access,Infant mortality,163,Spurious?,>
+Pair 72,Sunspots,Global mean temperature,1632,Temperature is taken as difference from mean,>
+Pair 73,Energy Use ,CO2 Emissions,5084,,>
+Pair 78,Photosynthetic Photon Flux Density ,Net Ecosystem Productivity,721,,>
+Pair 86,Size of Apartment,Monthly Rent,666,,>
+Pair 87,Temperature,Total Snow,7753,,>
+Pair 88,Age,Bone Mineral Density,261,,>
+Pair 96,Temperature,Electricity Consumption,9504,,>
+Pair 100,CPU Cycle time,Performance,209,Logs of the original values,>

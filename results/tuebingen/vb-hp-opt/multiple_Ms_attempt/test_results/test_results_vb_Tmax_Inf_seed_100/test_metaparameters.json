@@ -1,0 +1,1 @@
+{"test_metaparameters":{"P":1,"ratio":1.0,"pseudodata_type":"kmeans","pairs_included":["pair0001"],"SEED":100,"hp_folder":"./results/tuebingen/vb-hp-opt/multiple_Ms_attempt","Rs":[1,2,3,4,5],"T_max":null,"norm":true,"EPOCHS":20,"Ms":[2,3,4,5]}}
